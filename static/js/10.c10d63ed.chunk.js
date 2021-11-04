@@ -1,0 +1,2 @@
+(this["webpackJsonp@coreui/coreui-pro-react-admin-template-starter"]=this["webpackJsonp@coreui/coreui-pro-react-admin-template-starter"]||[]).push([[10],{653:function(e,t,r){"use strict";r.r(t);var a=r(1),n=r.n(a);t.default=function(){return n.a.createElement(n.a.Fragment,null,"Hello world!")}}}]);
+//# sourceMappingURL=10.c10d63ed.chunk.js.map
